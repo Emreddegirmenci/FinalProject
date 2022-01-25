@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emred\\Desktop\\FinalProject\\Business\\Business.csproj": {}
+    "C:\\Users\\emred\\Source\\Repos\\Emreddegirmenci\\FinalProject\\Business\\Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emred\\Desktop\\FinalProject\\Business\\Business.csproj": {
+    "C:\\Users\\emred\\Source\\Repos\\Emreddegirmenci\\FinalProject\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emred\\Desktop\\FinalProject\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\emred\\Source\\Repos\\Emreddegirmenci\\FinalProject\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\emred\\Desktop\\FinalProject\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\emred\\Source\\Repos\\Emreddegirmenci\\FinalProject\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\emred\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emred\\Desktop\\FinalProject\\Business\\obj\\",
+        "outputPath": "C:\\Users\\emred\\Source\\Repos\\Emreddegirmenci\\FinalProject\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\emred\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,11 +27,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\emred\\Desktop\\FinalProject\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\emred\\Desktop\\FinalProject\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\emred\\Source\\Repos\\Emreddegirmenci\\FinalProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\emred\\Source\\Repos\\Emreddegirmenci\\FinalProject\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\emred\\Desktop\\FinalProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\emred\\Desktop\\FinalProject\\Entities\\Entities.csproj"
+              "C:\\Users\\emred\\Source\\Repos\\Emreddegirmenci\\FinalProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\emred\\Source\\Repos\\Emreddegirmenci\\FinalProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\emred\\Desktop\\FinalProject\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\emred\\Source\\Repos\\Emreddegirmenci\\FinalProject\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emred\\Desktop\\FinalProject\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\emred\\Source\\Repos\\Emreddegirmenci\\FinalProject\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\emred\\Desktop\\FinalProject\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\emred\\Source\\Repos\\Emreddegirmenci\\FinalProject\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\emred\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emred\\Desktop\\FinalProject\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\emred\\Source\\Repos\\Emreddegirmenci\\FinalProject\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\emred\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +89,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\emred\\Desktop\\FinalProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\emred\\Desktop\\FinalProject\\Entities\\Entities.csproj"
+              "C:\\Users\\emred\\Source\\Repos\\Emreddegirmenci\\FinalProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\emred\\Source\\Repos\\Emreddegirmenci\\FinalProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -104,6 +104,10 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
@@ -125,14 +129,14 @@
         }
       }
     },
-    "C:\\Users\\emred\\Desktop\\FinalProject\\Entities\\Entities.csproj": {
+    "C:\\Users\\emred\\Source\\Repos\\Emreddegirmenci\\FinalProject\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emred\\Desktop\\FinalProject\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\emred\\Source\\Repos\\Emreddegirmenci\\FinalProject\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\emred\\Desktop\\FinalProject\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\emred\\Source\\Repos\\Emreddegirmenci\\FinalProject\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\emred\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emred\\Desktop\\FinalProject\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\emred\\Source\\Repos\\Emreddegirmenci\\FinalProject\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\emred\\AppData\\Roaming\\NuGet\\NuGet.Config",

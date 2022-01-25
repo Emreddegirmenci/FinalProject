@@ -7,3 +7,12 @@ C:\Users\emred\Desktop\FinalProject\Entities\bin\Debug\netstandard2.0\Entities.d
 C:\Users\emred\Desktop\FinalProject\Entities\bin\Debug\netstandard2.0\Entities.pdb
 C:\Users\emred\Desktop\FinalProject\Entities\obj\Debug\netstandard2.0\Entities.dll
 C:\Users\emred\Desktop\FinalProject\Entities\obj\Debug\netstandard2.0\Entities.pdb
+C:\Users\emred\Source\Repos\Emreddegirmenci\FinalProject\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\emred\Source\Repos\Emreddegirmenci\FinalProject\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\emred\Source\Repos\Emreddegirmenci\FinalProject\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\emred\Source\Repos\Emreddegirmenci\FinalProject\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+C:\Users\emred\Source\Repos\Emreddegirmenci\FinalProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\emred\Source\Repos\Emreddegirmenci\FinalProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\emred\Source\Repos\Emreddegirmenci\FinalProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\emred\Source\Repos\Emreddegirmenci\FinalProject\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\emred\Source\Repos\Emreddegirmenci\FinalProject\Entities\obj\Debug\netstandard2.0\Entities.pdb

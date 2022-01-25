@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emred\\Desktop\\FinalProject\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\emred\\Source\\Repos\\Emreddegirmenci\\FinalProject\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\emred\\Desktop\\FinalProject\\Entities\\Entities.csproj",
+      "projectPath": "C:\\Users\\emred\\Source\\Repos\\Emreddegirmenci\\FinalProject\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\emred\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emred\\Desktop\\FinalProject\\Entities\\obj\\",
+      "outputPath": "C:\\Users\\emred\\Source\\Repos\\Emreddegirmenci\\FinalProject\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\emred\\AppData\\Roaming\\NuGet\\NuGet.Config",
