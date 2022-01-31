@@ -16,3 +16,6 @@ C:\Users\emred\Source\Repos\Emreddegirmenci\FinalProject\Entities\obj\Debug\nets
 C:\Users\emred\Source\Repos\Emreddegirmenci\FinalProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
 C:\Users\emred\Source\Repos\Emreddegirmenci\FinalProject\Entities\obj\Debug\netstandard2.0\Entities.dll
 C:\Users\emred\Source\Repos\Emreddegirmenci\FinalProject\Entities\obj\Debug\netstandard2.0\Entities.pdb
+C:\Users\emred\source\repos\Emreddegirmenci\FinalProject\Entities\bin\Debug\netstandard2.0\Core.dll
+C:\Users\emred\source\repos\Emreddegirmenci\FinalProject\Entities\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\emred\source\repos\Emreddegirmenci\FinalProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete

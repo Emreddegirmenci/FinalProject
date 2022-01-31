@@ -22,3 +22,5 @@ C:\Users\emred\Source\Repos\Emreddegirmenci\FinalProject\DataAccess\obj\Debug\ne
 C:\Users\emred\Source\Repos\Emreddegirmenci\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
 C:\Users\emred\Source\Repos\Emreddegirmenci\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
 C:\Users\emred\Source\Repos\Emreddegirmenci\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\emred\source\repos\Emreddegirmenci\FinalProject\DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\Users\emred\source\repos\Emreddegirmenci\FinalProject\DataAccess\bin\Debug\netstandard2.0\Core.pdb
