@@ -8,10 +8,11 @@ namespace Core.Utilities.Results
     {
         
 
-        public Result(bool success, string message) : this(success)
+        public Result(bool success, string message) : this(success) 
         {
             Message = message;
         }
+        // this(success) sayesinde 2 parametreli result çalışırken tek parametreli result'ta çalışır
 
         public Result(bool success)
         {
