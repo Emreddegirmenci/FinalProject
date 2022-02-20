@@ -20,7 +20,6 @@ C:\Users\emred\Source\Repos\Emreddegirmenci\FinalProject\Business\bin\Debug\nets
 C:\Users\emred\Source\Repos\Emreddegirmenci\FinalProject\Business\bin\Debug\netstandard2.0\DataAccess.pdb
 C:\Users\emred\Source\Repos\Emreddegirmenci\FinalProject\Business\bin\Debug\netstandard2.0\Entities.pdb
 C:\Users\emred\Source\Repos\Emreddegirmenci\FinalProject\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
-C:\Users\emred\Source\Repos\Emreddegirmenci\FinalProject\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
 C:\Users\emred\Source\Repos\Emreddegirmenci\FinalProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
 C:\Users\emred\Source\Repos\Emreddegirmenci\FinalProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
 C:\Users\emred\Source\Repos\Emreddegirmenci\FinalProject\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
@@ -28,3 +27,4 @@ C:\Users\emred\Source\Repos\Emreddegirmenci\FinalProject\Business\obj\Debug\nets
 C:\Users\emred\Source\Repos\Emreddegirmenci\FinalProject\Business\obj\Debug\netstandard2.0\Business.pdb
 C:\Users\emred\source\repos\Emreddegirmenci\FinalProject\Business\bin\Debug\netstandard2.0\Core.dll
 C:\Users\emred\source\repos\Emreddegirmenci\FinalProject\Business\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\emred\source\repos\Emreddegirmenci\FinalProject\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
